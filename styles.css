@@ -1,3 +1,21 @@
 html{
 	background-color: black;
 }
+.tarjeta{
+	width: 20%; /*80% de la pantalla, si la pantalla disminuye, la tarjeta se adapta*/
+	padding: 20px;/*Separacion entre los elementos y el borde (margen por dentro) espacio entre el teclado y el borde en ejemplo del teclado*/
+	margin: 10;
+	background-color: gray;
+	border: 1px solid black;
+	margin: 20px;
+	box-shadow: 10px 10px 50px black;
+}
+.nombre {
+  font-size: 20px;
+  margin: 0;
+}
+.tarjeta-info{
+	display:flex;
+	justify-content: space-between;
+	font-size: 15px;
+}
