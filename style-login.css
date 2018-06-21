@@ -1,0 +1,41 @@
+.fondito{
+
+    background: #9032C8;
+}
+.logo{
+ width: 15%;
+ margin: 0 auto;
+ display: block;
+}
+.textop{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.botoncito{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    background: #F223C6;
+
+}
+.alinear-objetos{
+    margin: 0 auto;
+    justify-content: center;
+}
+.texto-fondo{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+.acomoda-vertical{
+    justify-content: space-between;
+}
