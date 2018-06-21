@@ -1,21 +1,29 @@
-html{
-	background-color: black;
+.center{
+	margin: auto;
+    width: 50%;
+    text-align: center;
 }
-.tarjeta{
-	width: 20%; /*80% de la pantalla, si la pantalla disminuye, la tarjeta se adapta*/
-	padding: 20px;/*Separacion entre los elementos y el borde (margen por dentro) espacio entre el teclado y el borde en ejemplo del teclado*/
-	margin: 10;
-	background-color: gray;
-	border: 1px solid black;
-	margin: 20px;
-	box-shadow: 10px 10px 50px black;
+
+.serviciosConf{
+	background-color: #9032C8;
+	color: white;
+	font-family: "Arial", Arial, serif;
 }
-.nombre {
-  font-size: 20px;
-  margin: 0;
+
+.serviciosDisp{
+	background-color: #F223C6;
+	color: white;
+	font-family: "Arial", Arial, serif;
 }
-.tarjeta-info{
-	display:flex;
-	justify-content: space-between;
-	font-size: 15px;
+
+.bienvenida{
+	font-weight: bold;
+	font-family: "Arial", Arial, serif;
+	font-size: 40px;
+}
+
+.cierre{
+	font-family: "Arial", Arial, serif;
+	color: red;
+	font-size: 18px;
 }
